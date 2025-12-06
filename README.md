@@ -3,14 +3,12 @@
 # Implementation of K Nearest Neighbour (for practice)
 
 ## Installation 
-'''
-bash
+'''bash
 pip install -r requirements.txt
 '''
 
 ## Usage 
-'''
-bash 
+'''bash 
 jupyter lab
 '''
 
